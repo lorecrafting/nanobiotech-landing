@@ -87,16 +87,16 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "https://static.parastorage.com/services/wix-ui-santa/1.1188.0/";
+/******/ 	__webpack_require__.p = "https://static.parastorage.com/services/wix-ui-santa/1.1204.0/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 1370);
+/******/ 	return __webpack_require__(__webpack_require__.s = 1371);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 1370:
+/***/ 1371:
 /*!*********************!*\
   !*** ./dataRefs.js ***!
   \*********************/
@@ -106,14 +106,14 @@ return /******/ (function(modules) { // webpackBootstrap
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _dataRefs_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./dataRefs.json */ 859);
-var _dataRefs_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! ./dataRefs.json */ 859, 1);
+/* harmony import */ var _dataRefs_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./dataRefs.json */ 857);
+var _dataRefs_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! ./dataRefs.json */ 857, 1);
 
 /* harmony default export */ __webpack_exports__["default"] = (_dataRefs_json__WEBPACK_IMPORTED_MODULE_0__);
 
 /***/ }),
 
-/***/ 859:
+/***/ 857:
 /*!***********************!*\
   !*** ./dataRefs.json ***!
   \***********************/
